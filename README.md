@@ -1,38 +1,38 @@
 <div align="center">
 
-  <!-- ==================== 1. CYBER WAVING BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&customColorList=050811,0a192f,1e3a8a,00e5ff,10b981&height=240&section=header&text=TABAYYUNA%20MUHARRAMA&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=%E2%9C%A8%20Call%20me%20Yuna%20%E2%80%A2%20Founder%20%26%20Builder%20of%20YNA%20STORE%20%E2%9C%A8&descFontSize=15&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- ==================== 1. HERO BANNER (100% JERNIH & TIDAK AKAN PECAH) ==================== -->
+  <a href="https://ynastore.my.id">
+    <img src="https://tourl.ynastore.my.id/z6jPaLdO" width="100%" style="border-radius: 16px;" alt="YNA STORE Official Banner" />
+  </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- ==================== 2. QUICK SOCIAL PILLS ==================== -->
+  <!-- ==================== 2. QUICK CONNECT BADGES ==================== -->
   <p align="center">
     <a href="https://ynastore.my.id" target="_blank">
-      <img src="https://img.shields.io/badge/Web_Utama-ynastore.my.id-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="YNA STORE Website" />
+      <img src="https://img.shields.io/badge/WEBSITE-ynastore.my.id-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="YNA STORE Website" />
     </a>
     <a href="https://prem.ynastore.my.id" target="_blank">
-      <img src="https://img.shields.io/badge/SaaS_Reseller-YNA_PREM-2563eb?style=for-the-badge&logo=sparkles&logoColor=white" alt="YNA PREM Platform" />
+      <img src="https://img.shields.io/badge/SAAS-YNA%20PREM-2563eb?style=for-the-badge&logo=cloud&logoColor=white" alt="YNA PREM SaaS" />
     </a>
     <a href="https://www.instagram.com/yna_store__" target="_blank">
-      <img src="https://img.shields.io/badge/IG_Pribadi-@yna__store__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/INSTAGRAM-@yna__store__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://t.me/yna_store" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-@yna__store-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+      <img src="https://img.shields.io/badge/TELEGRAM-@yna__store-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
     <a href="https://youtube.com/@yna_store" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-@yna__store-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+      <img src="https://img.shields.io/badge/YOUTUBE-@yna__store-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
     </a>
     <a href="https://wa.me/6283173403262" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-Chat_Admin-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+      <img src="https://img.shields.io/badge/WHATSAPP-0831--7340--3262-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </p>
 
-  <br/>
-
-  <!-- ==================== 3. TYPING SVG TEXT ==================== -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=20&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Yo!+Gue+Tabayyuna+(Yuna)%2C+suka+ngoprek+server+%26+bikin+tools+digital.;Founder+YNA+STORE+—+Membangun+ekosistem+digital+dari+nol.;Ngoding+backend+Node.js%2C+bot+WhatsApp%2C+hingga+payment+gateway+QRIS.;Kalo+bisa+dibuat+otomatis%2C+ngapain+dikerjain+manual%3F+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <!-- ==================== 3. ANIMATED TYPING TERMINAL ==================== -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Yo!+Gua+Tabayyuna+Muharrama+(Yuna);Founder+%26+Lead+Engineer+of+YNA+STORE+Ecosystem;Suka+ngoprek+Server+Linux%2C+Cloud+Backend+%26+Bot+Otomatis;Kalo+bisa+otomatis+dalam+hitungan+detik%2C+gaspol!+%E2%9A%A1" alt="Typing SVG" />
+  </p>
 
 </div>
 
@@ -40,18 +40,24 @@
 
 ---
 
-### 👋 Kenalan Dikit Yuk!
+### 👨‍💻 Salken! Gua Yuna 🚀
 
-Halo semua! Gua **Tabayyuna Muharrama** (biasa dipanggil **Yuna**). Gua seorang **Solo Developer & Tech Enthusiast** asal Indonesia 🇮🇩 yang hobi ngoprek berbagai macam teknologi: mulai dari backend arsitektur berkecepatan tinggi, sistem otomasi bot WhatsApp/Telegram, panel server Linux, sampai ngebangun ekosistem digital mandiri bernama **YNA STORE (Yielding New Age)**.
+Halo bro/sis! Gua **Tabayyuna Muharrama** (biasa dipanggil **Yuna**). Gua seorang **Solo Developer & Tech Builder** asal Indonesia 🇮🇩.
 
-Prinsip gua simpel: *“Build something that works fast, looks clean, and helps people scale their digital business.”*
+Keseharian gua banyak dihabiskan buat ngoprek arsitektur server, ngerancang automasi berkecepatan tinggi, bikin payment gateway QRIS whitelabel, sampai ngebangun ekosistem digital mandiri bernama **YNA STORE (Yielding New Age)** yang siap melayani ribuan transaksi tiap hari.
 
 ```javascript
 const yuna = {
-  namaLengkap: "Tabayyuna Muharrama",
-  panggilan: "Yuna",
-  peran: "Founder & Lead Developer YNA STORE",
-  status: "Lagi asyik ngembangin ekosistem digital 24/7 🚀",
-  kebiasaan: ["Ngoprek server Linux", "Bikin bot & API otomatis", "Nyeruput kopi hitam ☕", "Refactor kode biar silky smooth"],
-  motto: "Kalo bisa serba otomatis dalam 0.4 detik, ngapain nunggu manual seharian?"
+  nama: "Tabayyuna Muharrama",
+  nickname: "Yuna",
+  title: "Founder & Lead Software Engineer @ YNA STORE",
+  lokasi: "Indonesia 🇮🇩",
+  passion: [
+    "High-Speed Backend Microservices",
+    "QRIS Payment Gateway Architecture",
+    "Pterodactyl & Linux Cloud Clusters",
+    "Autonomous Bot Engineering (Baileys / Telegram / Webhooks)"
+  ],
+  statusSekarang: "Fokus scaling ekosistem YNA STORE & YNA PREM 🚀",
+  quote: "Ngoding bukan cuma ngetik syntax, tapi ngebangun solusi nyata yang ngebantu banyak orang."
 };
