@@ -24,7 +24,7 @@
     <a href="https://youtube.com/@yna_store" target="_blank">
       <img src="https://img.shields.io/badge/YOUTUBE-@yna__store-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
     </a>
-    <a href="https://wa.me/6283173403262" target="_blank">
+    <a href="https://wa.me/6285177592267" target="_blank">
       <img src="https://img.shields.io/badge/WHATSAPP-0831--7340--3262-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </p>
